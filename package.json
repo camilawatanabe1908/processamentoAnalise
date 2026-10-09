@@ -1,5 +1,5 @@
 {
-  "name": "tech4",
+  "name": "techforge4-ads",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "prompt-sync": "^4.2.0"
-  },
-  "devDependencies": {
-    "@types/node": "^26.6.4",
-    "@types/prompt-sync": "^4.2.3",
-    "ts-node": "^10.9.2",
-    "tsx": "^4.23.15",
-    "typescript": "^7.0.2"
-  }
+  "type": "module"
 }
